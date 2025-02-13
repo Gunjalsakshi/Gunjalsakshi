@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sakshi Gunjal  
 
 💻 Aspiring Web & Software Developer | Passionate about Innovation  
-📚 Learning: Python, .NET, Cybersecurity  
+📚 Learning: Python, Cybersecurity  
 🌟 Interests: AI, Full-Stack Development, Cybersecurity   
 
 ### 📫 Connect with me:  
